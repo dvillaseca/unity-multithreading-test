@@ -1,2 +1,2 @@
 # unity-multithreading-test
-Gravity "sumulation"
+Gravity "simulation"
